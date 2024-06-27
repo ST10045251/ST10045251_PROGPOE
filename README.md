@@ -44,5 +44,12 @@ This application allows users to manage and view recipes.
 2. Build and run the project.
 3. Follow the on-screen prompts to interact with the application.
 
+### Main Features
+
+- **Add a new recipe**: Enter the details for ingredients and steps.
+- **View a recipe**: Select a recipe to view its details, including total calories.
+- **List all recipes**: Display all recipes in the journal.
+- **Filter recipes**: Filter recipes by ingredient name, food group, or maximum calories.
+
 
 https://github.com/ST10045251/ST10045251_PROGPOE.git
