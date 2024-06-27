@@ -76,4 +76,12 @@ Based on lecturer feedback, several enhancements were implemented in the Recipe 
 1. User Interface Improvements: Enhanced the user interface with clearer prompts and added lines for readability throughout the interaction flow.
 
 2. View Recipe Enhancement: Added a descriptive line "This recipe is a..." when viewing a recipe to provide context before displaying recipe details.
-https://github.com/ST10045251/ST10045251_PROGPOE.git
+
+3. Input Validation: Improved input validation for numeric inputs, ensuring users enter valid numbers greater than zero for quantities, calories, and step counts.
+
+4. Error Handling: Incorporated error handling for invalid user inputs, guiding users to enter correct choices or values.
+   
+5. Added calorie information and general updates to program.
+
+   
+## https://github.com/ST10045251/ST10045251_PROGPOE.git
