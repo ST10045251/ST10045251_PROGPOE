@@ -23,3 +23,8 @@ This application allows users to manage and view recipes.
 2. Select the food group (1- Grains, 2- Vegetables, 3- Fruits, 4- Dairy, 5- Protein).
 3. Enter the total calories.
 4. Follow prompts to add steps to the recipe.
+
+### Viewing Recipes
+
+- Select a recipe to view its details, including steps and calorie information.
+- The application will display a message based on the total calorie count.
