@@ -28,3 +28,12 @@ This application allows users to manage and view recipes.
 
 - Select a recipe to view its details, including steps and calorie information.
 - The application will display a message based on the total calorie count.
+
+### Explanation of Calories and Food Groups
+
+- Calories are units of energy. The application provides context based on the calorie count:
+  - `< 200`: Low in calories, suitable for a snack.
+  - `200-500`: Moderate calories, suitable for a balanced meal.
+  - `> 500`: High in calories, should be consumed sparingly.
+- Food groups categorize foods based on their primary nutrients:
+  - Grains, Vegetables, Fruits, Dairy, Protein.
