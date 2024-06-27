@@ -44,6 +44,7 @@ This application allows users to manage and view recipes.
 2. Build and run the project.
 3. Follow the on-screen prompts to interact with the application.
 
+This application allows you to manage recipes, including ingredients and cooking steps, and provides calorie information.
 ### Main Features
 
 - **Add a new recipe**: Enter the details for ingredients and steps.
