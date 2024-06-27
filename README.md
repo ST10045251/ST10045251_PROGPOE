@@ -16,3 +16,10 @@ This application allows users to manage and view recipes.
   - Enter `2` to display a specific recipe.
   - Enter `3` to view all recipes.
   - Enter `4` to exit the application.
+
+### Adding a New Recipe
+
+1. Enter the recipe name.
+2. Select the food group (1- Grains, 2- Vegetables, 3- Fruits, 4- Dairy, 5- Protein).
+3. Enter the total calories.
+4. Follow prompts to add steps to the recipe.
