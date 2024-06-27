@@ -38,4 +38,11 @@ This application allows users to manage and view recipes.
 - Food groups categorize foods based on their primary nutrients:
   - Grains, Vegetables, Fruits, Dairy, Protein.
 
+## Running the WPF Application
+
+1. Open the solution in Visual Studio.
+2. Build and run the project.
+3. Follow the on-screen prompts to interact with the application.
+
+
 https://github.com/ST10045251/ST10045251_PROGPOE.git
