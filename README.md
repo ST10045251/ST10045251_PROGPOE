@@ -60,4 +60,12 @@ Calories are a measure of the amount of energy in food. They are essential for t
 - Less than 200: Low in calories, suitable for a snack.
 - 200 to 500: Moderate calories, suitable for a balanced meal.
 - More than 500: High in calories, should be consumed sparingly.
+
+### Food Groups
+
+- Fruits
+- Vegetables
+- Proteins
+- Dairy
+- Grains
 https://github.com/ST10045251/ST10045251_PROGPOE.git
