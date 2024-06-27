@@ -74,5 +74,6 @@ Calories are a measure of the amount of energy in food. They are essential for t
 Based on lecturer feedback, several enhancements were implemented in the Recipe Journal app:
 
 1. User Interface Improvements: Enhanced the user interface with clearer prompts and added lines for readability throughout the interaction flow.
-  
+
+2. View Recipe Enhancement: Added a descriptive line "This recipe is a..." when viewing a recipe to provide context before displaying recipe details.
 https://github.com/ST10045251/ST10045251_PROGPOE.git
