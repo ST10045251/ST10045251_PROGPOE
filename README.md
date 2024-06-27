@@ -51,5 +51,9 @@ This application allows users to manage and view recipes.
 - **List all recipes**: Display all recipes in the journal.
 - **Filter recipes**: Filter recipes by ingredient name, food group, or maximum calories.
 
+### Calories Information
+
+Calories are a measure of the amount of energy in food. They are essential for the body's functioning but should be consumed in moderation.
+
 
 https://github.com/ST10045251/ST10045251_PROGPOE.git
