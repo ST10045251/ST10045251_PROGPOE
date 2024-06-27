@@ -70,7 +70,8 @@ Calories are a measure of the amount of energy in food. They are essential for t
 - Dairy
 - Grains
 
-#Feedback Incorporation:
+# Feedback Incorporation:
+
 Based on lecturer feedback, several enhancements were implemented in the Recipe Journal app:
 
 1. User Interface Improvements: Enhanced the user interface with clearer prompts and added lines for readability throughout the interaction flow.
